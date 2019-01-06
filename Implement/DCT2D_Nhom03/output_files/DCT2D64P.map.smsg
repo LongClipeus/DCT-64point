@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at testB_ODD.v(4): object "cnt_clk" differs only in case from object "CNT_Clk" in the same scope
+Info (10281): Verilog HDL Declaration information at testB_EVEN.v(4): object "cnt_clk" differs only in case from object "CNT_Clk" in the same scope
+Info (10281): Verilog HDL Declaration information at testB_DCT1D8P.v(4): object "cnt_clk" differs only in case from object "CNT_Clk" in the same scope
+Info (10281): Verilog HDL Declaration information at testB_DCT1D.v(4): object "cnt_clk" differs only in case from object "CNT_Clk" in the same scope
+Info (10281): Verilog HDL Declaration information at DCT_ODD.v(7): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at DCT_EVEN.v(7): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
