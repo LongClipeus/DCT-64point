@@ -11,3 +11,8 @@ Nội dung file báo cáo của nhóm chúng em gồm có:
 4.RTL: thư mục chứa các file chạy mô phỏng (sim) và tổng hợp(syn)
 
 5.SIM: thư mục chứa kết quả chạy mô phỏng
+
+Author:
+ - [Chuyên](https://github.com/nvchuyen)
+ - Phong
+ - [Long](https://github.com/LongClipeus)
