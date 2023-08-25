@@ -1,4 +1,4 @@
-Đề tài: Thiết kế DCT 64 điểm
+### Đề tài: Thiết kế DCT 64 điểm
 
 Nội dung file báo cáo của nhóm chúng em gồm có:
 
@@ -12,7 +12,7 @@ Nội dung file báo cáo của nhóm chúng em gồm có:
 
 5.SIM: thư mục chứa kết quả chạy mô phỏng
 
-Author:
- - [Chuyên](https://github.com/nvchuyen)
+### Author
+ - [Nguyễn Văn Chuyên](https://github.com/nvchuyen)
  - Phong
- - [Long](https://github.com/LongClipeus)
+ - [Lê Văn Long](https://github.com/LongClipeus)
